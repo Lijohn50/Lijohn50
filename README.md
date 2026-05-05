@@ -1,7 +1,8 @@
+<div align = "center">
 ## 👋 Hi there, I'm Mahfujur Rahman Lijon.
 Always try to write clean and efficient code. I’m currently learning backend engineering with springboot.
+</div>
 
-<!--
 **Lijohn50/Lijohn50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
