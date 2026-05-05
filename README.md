@@ -1,11 +1,11 @@
-## 👋 Hi there I'm Mahfujur Rahman Lijon
+## 👋 Hi there, I'm Mahfujur Rahman Lijon
+## 🔭 I’m currently learning backend engineering with springboot
 
 <!--
 **Lijohn50/Lijohn50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-  🔭 I’m currently learning backend engineering with springboot
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
