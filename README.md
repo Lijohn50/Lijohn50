@@ -61,6 +61,7 @@ Currently diving deeper into **Spring Boot** 🌱
 
 Started with **C++**, explored **frontend development**,  
 then shifted focus toward **Java specialization** ☕
+
 and built projects using **JavaFX** and **MySQL** 
 
 Experimented with **Go**, developed interest in backend systems.  
