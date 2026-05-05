@@ -60,10 +60,10 @@ Currently diving deeper into **Spring Boot** 🌱
 ## 🚀 Developer Journey
 
 Started with **C++**, explored **frontend development**,  
-then shifted focus toward **Java specialization** ☕  
+then shifted focus toward **Java specialization** ☕
+and built projects using **JavaFX** and **MySQL** 
 
-Experimented with **Go**, developed interest in backend systems,  
-and built projects using **JavaFX** and **MySQL**  
+Experimented with **Go**, developed interest in backend systems.  
 
 Outside coding, I enjoy **Linux distro hopping** and experimenting with environments 🐧  
 
