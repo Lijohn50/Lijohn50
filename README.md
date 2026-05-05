@@ -1,5 +1,7 @@
 <div align="center">
 
+## 👋 Hi there, I'm Mahfujur Rahman Lijon
+
 ## 🎨 Software Developer | Crafting & Exploring Across Stacks
 
 Turning curiosity into code and ideas into real-world applications  
