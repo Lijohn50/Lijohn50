@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi there, I'm Mahfujur Rahman Lijon
+# 👋 Hi there, I'm Mahfujur Rahman Lijon
 
 ## 🎨 Software Developer | Crafting & Exploring Across Stacks
 
