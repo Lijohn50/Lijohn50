@@ -1,8 +1,8 @@
 <div align = "center">
 ## 👋 Hi there, I'm Mahfujur Rahman Lijon.
-Always try to write clean and efficient code. I’m currently learning backend engineering with springboot.
-</div>
+  Always try to write clean and efficient code. I’m currently learning backend engineering with springboot.
 
+  
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</div>
+
