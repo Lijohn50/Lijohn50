@@ -24,7 +24,7 @@ Currently diving deeper into **Spring Boot** 🌱
 ### 🧠 Languages & Core
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logocolor=white)
 
 ### 🎨 Frontend Foundations
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
